@@ -1,21 +1,25 @@
 <h1 align="center">Hi , I'm Shubham </h1><img align="right" src="https://github.com/images/mona-whisper.gif" />
 
+👨‍💻 I'm a software engineer <br/>
+🌱 I’m currently learning **Next Js**<br/>
+ 💬 Ask me about **Javascript, React Js, Node Js**<br/>
+ 📫 How to reach me **kee.shubham@gmail.com**<br/>
 
-👨‍💻 I'm a software engineer 
-
-🌱 I’m currently learning **Next Js**
-
- 💬 Ask me about **Javascript, React Js, Node Js**
-
- 📫 How to reach me **kee.shubham@gmail.com**
-
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishubham&show_icons=true&theme=radical)](https://github.com/kishubham/github-readme-stats)|<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishubham&show_icons=true&locale=en&layout=compact" alt="kishubham" /></p>|
+##  💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kishubham&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishubham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 |-|-|
 
-<br/>
-
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></p>
-<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kishubham&theme=dark&hide_border=false)<br/>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishubham&" alt="kishubham" /></p>
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+
+<p align="right">[![](https://visitcount.itsvg.in/api?id=kishubham&icon=6&color=1)](https://visitcount.itsvg.in)</p>
