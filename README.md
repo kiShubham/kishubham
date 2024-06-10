@@ -1,9 +1,16 @@
-<h1 align="center">Hi , I'm Shubham </h1><img align="right" src="https://github.com/images/mona-whisper.gif" />
 
-👨‍💻 I'm a software engineer <br/>
-🌱 I’m currently learning **Next Js**<br/>
- 💬 Ask me about **Javascript, React Js, Node Js**<br/>
- 📫 How to reach me **kee.shubham@gmail.com**<br/>
+
+
+## <img width="240" src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif?cid=ecf05e47x076fbt4bw828s1sieby21ql7qjfpmhg800hplbl&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" src="https://github.com/images/mona-whisper.gif" />
+
+👨‍💻 I'm a software engineer 
+
+🌱 I’m currently learning **Next Js**
+
+ 💬 Ask me about **Javascript, React Js, Node Js**
+ 
+ 📫 How to reach me **kee.shubham@gmail.com**
 
 ##  💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,5 +28,4 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-
-<p align="right">[![](https://visitcount.itsvg.in/api?id=kishubham&icon=6&color=1)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=kishubham&icon=6&color=1)](https://visitcount.itsvg.in)
