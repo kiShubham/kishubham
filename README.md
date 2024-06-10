@@ -1,8 +1,6 @@
+## <h1 align="center"><span>Hi , I'm Shubham</span><img width=80 src="https://github.com/images/mona-whisper.gif" /></h1>
 
-
-
-## <img width="240" src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif?cid=ecf05e47x076fbt4bw828s1sieby21ql7qjfpmhg800hplbl&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-<img align="right" src="https://github.com/images/mona-whisper.gif" />
+<img align="right" width="350" src="https://media.giphy.com/media/kGdWDdaIEN5yDWKmg4/giphy.gif?cid=ecf05e47x076fbt4bw828s1sieby21ql7qjfpmhg800hplbl&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 👨‍💻 I'm a software engineer 
 
