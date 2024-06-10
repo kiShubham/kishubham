@@ -2,7 +2,7 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/kGdWDdaIEN5yDWKmg4/giphy.gif?cid=ecf05e47x076fbt4bw828s1sieby21ql7qjfpmhg800hplbl&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-👨‍💻 I'm a software engineer 
+👨‍💻 I'm a Engineer 
 
 🌱 I’m currently learning **Next Js**
 
